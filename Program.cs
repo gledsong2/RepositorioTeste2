@@ -14,6 +14,10 @@ namespace CSIfs.Fatorial
             Console.WriteLine("Digite o numero para obter seu fatorial ");
             numero = int.Parse(Console.ReadLine());
 
+
+            //usei para testar o gitHub5
+            Console.Write("Testando o GITHUB5");
+
             Program p = new Program();
             Console.WriteLine("O fatorial é : {0}", p.fatorial(numero));
 
