@@ -24,6 +24,8 @@ namespace CSIfs.Fatorial
 
             //usei para testar o gitHub2
             Console.Write("Testando o GITHUB2");
+            //usei para testar o gitHub3
+            Console.Write("Testando o GITHUB4");
 
         }
         public int fatorial(int num)
