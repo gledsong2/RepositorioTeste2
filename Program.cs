@@ -18,6 +18,10 @@ namespace CSIfs.Fatorial
             //usei para testar o gitHub5
             Console.Write("Testando o GITHUB5");
 
+            //usei para testar o Ramovo
+            Console.Write("TamoNovo");
+
+
             Program p = new Program();
             Console.WriteLine("O fatorial é : {0}", p.fatorial(numero));
 
@@ -26,8 +30,6 @@ namespace CSIfs.Fatorial
             //usei para testar o gitHub
             Console.Write("Testando o GITHUB");
 
-            //usei para testar o gitHub2
-            Console.Write("Testando o GITHUB2");
             //usei para testar o gitHub3
             Console.Write("Testando o GITHUB4");
 
